@@ -1,1 +1,1 @@
-# catalog_site2
+Training to do django sites
